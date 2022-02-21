@@ -21,10 +21,12 @@ In this project we will analyze a series of databases in order to prepare for a 
 ## Results
 ### Future Job Openings
 Here is the unique titles table in which we can see that there are a total of 90,396 employees, of which 57,668 are retiring meaning that approximately 64% of the workforce of the company needs to be replaced.
+
 <img width="184" alt="Screen Shot 2022-02-20 at 11 13 44 PM" src="https://user-images.githubusercontent.com/83614893/154893743-10e47943-9862-4eb1-a1e9-c1eb03d27c52.png">
 
 ### Mentorship Candidates
 Below we have a glimpse of the Mentorship Candidates which means that there are approximately 133,755 employees that are apt to do this program that can be considered as senior employees.
+
 <img width="650" alt="Screen Shot 2022-02-20 at 11 16 24 PM" src="https://user-images.githubusercontent.com/83614893/154893750-509a663e-3139-4ea5-bae2-0926e2b78850.png">
 
 
